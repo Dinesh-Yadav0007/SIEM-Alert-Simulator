@@ -15,7 +15,7 @@ SIEM Alert Simulator provides pre-generated sample logs mimicking real-world sec
 * Graylog: Configure File Input to ingest logs from sample_logs/
 * ELK: Use Logstash file input or Beats to ingest log files
 # Benefits
-*Practice alert triaging and incident response workflows
+* Practice alert triaging and incident response workflows
 * Simulate SOC analyst tasks in a controlled environment
 * Gain hands-on experience with SIEM log ingestion and alert creation
 * Build practical skills in detecting suspicious activities like brute-force attacks
