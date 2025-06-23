@@ -1,0 +1,40 @@
+Failed login attempt from 192.168.1.5 - Invalid credentials  
+Failed login attempt from 10.0.0.12 - Account locked  
+Failed login attempt from 172.16.0.5 - User not found  
+Failed login attempt from 192.168.1.20 - Password expired  
+Failed login attempt from 203.0.113.12 - Invalid credentials  
+Failed login attempt from 10.0.0.25 - Invalid password  
+Failed login attempt from 198.51.100.3 - Account disabled  
+Failed login attempt from 10.0.0.15 - Invalid credentials  
+Failed login attempt from 192.168.1.25 - Too many attempts  
+Failed login attempt from 203.0.113.30 - User locked out  
+Failed login attempt from 172.16.1.10 - Invalid credentials  
+Failed login attempt from 198.51.100.45 - Password expired  
+Failed login attempt from 192.168.2.10 - User not found  
+Failed login attempt from 10.0.1.5 - Account locked  
+Failed login attempt from 203.0.113.50 - Invalid password  
+Failed login attempt from 198.51.100.60 - Account disabled  
+Failed login attempt from 172.16.2.15 - Invalid credentials  
+Failed login attempt from 192.168.3.20 - Too many attempts  
+Failed login attempt from 10.0.2.25 - User locked out  
+Failed login attempt from 203.0.113.70 - Invalid credentials  
+Failed login attempt from 198.51.100.80 - Account locked  
+Failed login attempt from 172.16.3.25 - Password expired  
+Failed login attempt from 192.168.4.30 - Invalid password  
+Failed login attempt from 10.0.3.35 - User not found  
+Failed login attempt from 203.0.113.90 - Account disabled  
+Failed login attempt from 198.51.100.95 - Invalid credentials  
+Failed login attempt from 172.16.4.40 - Too many attempts  
+Failed login attempt from 192.168.5.45 - Account locked  
+Failed login attempt from 10.0.4.50 - Invalid password  
+Failed login attempt from 203.0.113.100 - User locked out  
+Failed login attempt from 198.51.100.110 - Password expired  
+Failed login attempt from 172.16.5.55 - Invalid credentials  
+Failed login attempt from 192.168.6.60 - Too many attempts  
+Failed login attempt from 10.0.5.65 - User locked out  
+Failed login attempt from 203.0.113.120 - Invalid password  
+Failed login attempt from 198.51.100.130 - Account disabled  
+Failed login attempt from 172.16.6.70 - Invalid credentials  
+Failed login attempt from 192.168.7.75 - Password expired  
+Failed login attempt from 10.0.6.80 - User not found  
+Failed login attempt from 203.0.113.140 - Account locked  
